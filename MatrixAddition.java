@@ -1,6 +1,6 @@
 package IISC;
 
-public class MatrixMultiplication {
+public class MatrixAddition {
 
 	public static void main(String[] args) {
 		int[][] fire = { { 2, 2 }, { 3, 3 } };
